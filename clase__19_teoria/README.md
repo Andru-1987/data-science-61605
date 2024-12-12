@@ -1,7 +1,11 @@
 # ALGORITMOS DE CLASIFICACION
+- [Presentacion Clase # 20](https://docs.google.com/presentation/d/1s9y7M_9KaM94yb3hgOMX3g1EYwpxUlEQ8hJzDC269kE/preview?slide=id.p1)
+
 
 ## 1. Introducción a la Clasificación
 La clasificación es un problema de aprendizaje supervisado donde el objetivo es predecir la categoría o etiqueta de una instancia basándose en sus características. El modelo aprende de un conjunto de datos etiquetados para hacer predicciones sobre nuevos datos no vistos.
+
+![](./assets/ml_algo.gif)
 
 ## 2. K-Nearest Neighbors (KNN)
 
